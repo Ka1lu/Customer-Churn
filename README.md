@@ -54,7 +54,7 @@ Predict whether a customer will churn based on features like `Contract`, `Paymen
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+    git clone https://github.com/Ka1lu/Customer-Churn.git
     ```
 
 2. Install the required dependencies:
